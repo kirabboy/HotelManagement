@@ -9,8 +9,7 @@
 					</a>
 				</h4>
 				<p>
-					Mobile World © 2018 | Design by <a href="http://facebook.com/HieuDTPH04388"
-						target="_blank">Hiếu Boy</a>
+					Mobile World © 2019
 				</p>
 			</div>
 			<div class="col-md-4 footer-grids wow fadeInUp animated" data-wow-delay=".7s">

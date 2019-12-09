@@ -103,13 +103,13 @@
         <div data-u="loading" style="position:absolute;top:0px;left:0px;background:url('static/images/slider/loading.gif') no-repeat 50% 50%;background-color:rgba(0, 0, 0, 0.7);"></div>
         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1800px;height:800px;overflow:hidden;">
             <div>
-                <img data-u="image" src="static/images/slider/b1.png" />
+                <img data-u="image" src="https://cdn.tgdd.vn/2019/11/banner/thu-cu-note10-800-300-800x300-(9).png" />
             </div>
             <div>
-                <img data-u="image" src="static/images/slider/b2.png" />
+                <img data-u="image" src="https://cdn.tgdd.vn/2019/11/banner/800-300-800x300-(25).png" />
             </div>
             <div>
-                <img data-u="image" src="static/images/slider/b3.png" />
+                <img data-u="image" src="https://cdn.tgdd.vn/2019/11/banner/800-300-800x300-(9).png" />
             </div>
             
         </div>

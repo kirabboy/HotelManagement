@@ -12,7 +12,7 @@
 			<div class="col-md-3 new-grid simpleCart_shelfItem wow flipInY animated"
 				data-wow-delay=".5s">
 				<div class="new-top">
-					<a href="single.html"><img src="static/images/phone/7+.jpg"
+					<a href="single.html"><img src="static/images/phone/iphone11.jpg"
 						class="img-responsive" alt="" /></a>
 					<div class="new-text">
 						<ul>
@@ -24,7 +24,7 @@
 				</div>
 				<div class="new-bottom">
 					<h5>
-						<a class="name" href="single.html">iPhone 7 Plus</a>
+						<a class="name" href="single.html">iPhone 11 Pro Max</a>
 					</h5>
 					<div class="rating">
 						<span class="on">☆</span> <span class="on">☆</span> <span class="on">☆</span>
@@ -32,7 +32,7 @@
 					</div>
 					<div class="ofr">
 						<p>
-							<span class="item_price">20.500.000đ</span>
+							<span class="item_price">27.500.000đ</span>
 						</p>
 					</div>
 				</div>
@@ -41,7 +41,7 @@
 				class="col-md-3 new-grid new-mdl simpleCart_shelfItem wow flipInY animated"
 				data-wow-delay=".7s">
 				<div class="new-top">
-					<a href="single.html"><img src="static/images/phone/s8+.jpg"
+					<a href="single.html"><img src="static/images/phone/s10+.png"
 						class="img-responsive" alt="" /></a>
 					<div class="new-text">
 						<ul>
@@ -53,7 +53,7 @@
 				</div>
 				<div class="new-bottom">
 					<h5>
-						<a class="name" href="single.html">Samsung Galaxy S8+</a>
+						<a class="name" href="single.html">Samsung Galaxy S10 Plus</a>
 					</h5>
 					<div class="rating">
 						<span class="on">☆</span> <span class="on">☆</span> <span class="on">☆</span>
@@ -70,7 +70,7 @@
 				class="col-md-3 new-grid new-mdl1 simpleCart_shelfItem wow flipInY animated"
 				data-wow-delay=".9s">
 				<div class="new-top">
-					<a href="single.html"><img src="static/images/phone/6s+.jpg"
+					<a href="single.html"><img src="static/images/phone/fold.png"
 						class="img-responsive" alt="" /></a>
 					<div class="new-text">
 						<ul>
@@ -82,7 +82,7 @@
 				</div>
 				<div class="new-bottom">
 					<h5>
-						<a class="name" href="single.html">iPhone 6S Plus</a>
+						<a class="name" href="single.html">Samsung galaxy Fold</a>
 					</h5>
 					<div class="rating">
 						<span class="on">☆</span> <span class="on">☆</span> <span class="on">☆</span>
@@ -90,7 +90,7 @@
 					</div>
 					<div class="ofr">
 						<p>
-							<span class="item_price">16.500.000đ</span>
+							<span class="item_price">50.000.000đ</span>
 						</p>
 					</div>
 				</div>
@@ -98,7 +98,7 @@
 			<div class="col-md-3 new-grid simpleCart_shelfItem wow flipInY animated"
 				data-wow-delay="1.1s">
 				<div class="new-top">
-					<a href="single.html"><img src="static/images/phone/mi6.jpg"
+					<a href="single.html"><img src="static/images/phone/Mi9.png"
 						class="img-responsive" alt="" /></a>
 					<div class="new-text">
 						<ul>
@@ -110,7 +110,7 @@
 				</div>
 				<div class="new-bottom">
 					<h5>
-						<a class="name" href="single.html">Xiaomi MI 6</a>
+						<a class="name" href="single.html">Xiaomi Mi 9</a>
 					</h5>
 					<div class="rating">
 						<span class="on">☆</span> <span class="on">☆</span> <span class="on">☆</span>
@@ -118,7 +118,7 @@
 					</div>
 					<div class="ofr">
 						<p>
-							<span class="item_price">11.500.000đ</span>
+							<span class="item_price">7.500.000đ</span>
 						</p>
 					</div>
 				</div>

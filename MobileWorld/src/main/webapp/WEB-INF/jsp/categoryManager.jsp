@@ -109,7 +109,7 @@
 			<!-- footer -->
 			<footer
 				style="border-top: 1px solid #d2d6de; text-align: center; background: #fff; color: #444; height: 60px; line-height: 60px;">
-				<strong>Copyright &copy; 2018 | <a href="http://facebook.com/HieuDTPH04388">Hiếu Boy</a>.
+				<strong>Copyright &copy; 2019 | MobileWorld
 				</strong>
 			</footer>
 			<!-- footer -->

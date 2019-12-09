@@ -45,7 +45,7 @@
 												class="img-circle" alt="User Image">
 										</div>
 										<h4>
-											Hiếu Boy <small><i class="fa fa-clock-o"></i> 2 hours</small>
+											MobileWorld <small><i class="fa fa-clock-o"></i> 2 hours</small>
 										</h4>
 										<p>Why not buy a new awesome theme?</p>
 								</a></li>
@@ -192,7 +192,7 @@
 				<li class="dropdown user user-menu"><a href="#"
 					class="dropdown-toggle" data-toggle="dropdown"> <img
 						src="static/admin/img/user2-160x160.jpg" class="user-image"
-						alt="User Image"> <span class="hidden-xs">Hiếu Boy</span>
+						alt="User Image"> <span class="hidden-xs">MobileWorld</span>
 				</a>
 					<ul class="dropdown-menu">
 						<!-- User image -->
@@ -201,7 +201,7 @@
 							alt="User Image">
 
 							<p>
-								Hiếu Boy - Web Developer <small>Member since Nov. 2017</small>
+								MobileWorld - Web Developer <small>Member since Nov. 2019</small>
 							</p></li>
 						<!-- Menu Body -->
 						<li class="user-body">

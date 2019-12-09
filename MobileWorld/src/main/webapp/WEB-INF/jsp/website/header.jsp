@@ -33,11 +33,11 @@
 				<ul>
 					<li>
 						<i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>
-						0121 332 1897
+						028 3775 5035
 					</li>
 					<li>
 						<i class="glyphicon glyphicon-envelope" aria-hidden="true"></i>
-						<a href="mailto:hieuboyfc@gmail.com">hieuboyfc@gmail.com</a>
+						<a href="mailto:hieuboyfc@gmail.com">TDTUniversity@edu.com.vn</a>
 					</li>
 				</ul>
 			</div>
